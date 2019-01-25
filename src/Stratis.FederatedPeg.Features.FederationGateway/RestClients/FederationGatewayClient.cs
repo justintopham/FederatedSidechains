@@ -29,13 +29,15 @@ namespace Stratis.FederatedPeg.Features.FederationGateway.RestClients
         /// <inheritdoc />
         public Task<HttpResponseMessage> PushCurrentBlockTipAsync(BlockTipModel model, CancellationToken cancellation = default(CancellationToken))
         {
-            return this.SendPostRequestAsync(model, FederationGatewayRouteEndPoint.PushCurrentBlockTip, cancellation);
+            return Task.FromResult(new HttpResponseMessage(System.Net.HttpStatusCode.OK));
+            //           return this.SendPostRequestAsync(model, FederationGatewayRouteEndPoint.PushCurrentBlockTip, cancellation);
         }
 
         /// <inheritdoc />
         public Task<List<MaturedBlockDepositsModel>> GetMaturedBlockDepositsAsync(MaturedBlockRequestModel model, CancellationToken cancellation = default(CancellationToken))
         {
-            return this.SendPostRequestAsync<MaturedBlockRequestModel, List<MaturedBlockDepositsModel>>(model, FederationGatewayRouteEndPoint.GetMaturedBlockDeposits, cancellation);
+            return Task.FromResult(new List<MaturedBlockDepositsModel>());
+            //   return this.SendPostRequestAsync<MaturedBlockRequestModel, List<MaturedBlockDepositsModel>>(model, FederationGatewayRouteEndPoint.GetMaturedBlockDeposits, cancellation);
         }
     }
 }
