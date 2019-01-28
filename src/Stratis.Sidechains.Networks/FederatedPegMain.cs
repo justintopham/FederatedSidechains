@@ -15,15 +15,15 @@ namespace Stratis.Sidechains.Networks
     public class FederatedPegMain : PoANetwork
     {
         /// <summary> The name of the root folder containing the different federated peg blockchains.</summary>
-        private const string NetworkRootFolderName = "cirrus";
+        private const string NetworkRootFolderName = "LocalSC";
 
         /// <summary> The default name used for the federated peg configuration file. </summary>
-        private const string NetworkDefaultConfigFilename = "cirrus.conf";
+        private const string NetworkDefaultConfigFilename = "LocalSC.conf";
 
         internal FederatedPegMain()
         {
-            this.Name = "CirrusMain";
-            this.CoinTicker = "CRS";
+            this.Name = "LocalSCMain";
+            this.CoinTicker = "LSC";
             this.Magic = 0x522357A0;
             this.DefaultPort = 16179;
             this.DefaultMaxOutboundConnections = 16;
@@ -46,7 +46,7 @@ namespace Stratis.Sidechains.Networks
             this.GenesisVersion = 1;
             this.GenesisReward = Money.Zero;
 
-            string coinbaseText = "https://www.abc.net.au/news/science/2018-12-07/encryption-bill-australian-technology-industry-fuming-mad/10589962";
+            string coinbaseText = "https://www.bbc.co.uk/news/world-africa-45889707?intlink_from_url=https://www.bbc.co.uk/news/topics/cyd7z4rvdm3t/crypto-currency&link_location=live-reporting-story";
             Block genesisBlock = FederatedPegNetwork.CreateGenesis(consensusFactory, this.GenesisTime, this.GenesisNonce, this.GenesisBits, this.GenesisVersion, this.GenesisReward, coinbaseText);
 
             this.Genesis = genesisBlock;
