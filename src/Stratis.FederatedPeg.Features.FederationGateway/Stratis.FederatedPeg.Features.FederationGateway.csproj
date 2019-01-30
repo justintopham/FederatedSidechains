@@ -20,6 +20,8 @@
     <PackageReference Include="Stratis.Bitcoin" Version="3.0.0.4-beta" />
     <PackageReference Include="Stratis.Bitcoin.Api" Version="3.0.0.4-beta" />
     <PackageReference Include="Stratis.Bitcoin.Features.Notifications" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.PoA" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.SmartContracts" Version="0.0.6-beta" />
     <PackageReference Include="Stratis.Bitcoin.Features.Wallet" Version="3.0.0.4-beta" />
     <PackageReference Include="Stratis.FodyNlogAdapter" Version="3.0.0.4-beta" />
     <PackageReference Include="Tracer.Fody" Version="2.2.0">

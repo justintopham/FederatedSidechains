@@ -7,12 +7,12 @@ using NBitcoin.Protocol;
 using Stratis.Bitcoin.Features.PoA;
 using Stratis.Bitcoin.Features.SmartContracts.PoA;
 
-namespace Stratis.Sidechains.Networks
+namespace Stratis.Sidechains.LocalSmartContracts.Networks
 {
     /// <summary>
     /// Right now, ripped nearly straight from <see cref="PoANetwork"/>.
     /// </summary>
-    public class FederatedPegMain : PoANetwork
+    public class LocalSmartContractsMain : PoANetwork
     {
         /// <summary> The name of the root folder containing the different federated peg blockchains.</summary>
         private const string NetworkRootFolderName = "LocalSmartContracts";
@@ -20,7 +20,7 @@ namespace Stratis.Sidechains.Networks
         /// <summary> The default name used for the federated peg configuration file. </summary>
         private const string NetworkDefaultConfigFilename = "LocalSmartContracts.conf";
 
-        internal FederatedPegMain()
+        public LocalSmartContractsMain()
         {
             this.Name = "LocalSCs_Main";
             this.CoinTicker = "LSC";
@@ -47,7 +47,7 @@ namespace Stratis.Sidechains.Networks
             this.GenesisReward = Money.Zero;
 
             string coinbaseText = "https://www.bbc.co.uk/news/world-africa-45889707?intlink_from_url=https://www.bbc.co.uk/news/topics/cyd7z4rvdm3t/crypto-currency&link_location=live-reporting-story";
-            Block genesisBlock = FederatedPegNetwork.CreateGenesis(consensusFactory, this.GenesisTime, this.GenesisNonce, this.GenesisBits, this.GenesisVersion, this.GenesisReward, coinbaseText);
+            Block genesisBlock = LocalSmartContractsNetwork.CreateGenesis(consensusFactory, this.GenesisTime, this.GenesisNonce, this.GenesisBits, this.GenesisVersion, this.GenesisReward, coinbaseText);
 
             this.Genesis = genesisBlock;
 

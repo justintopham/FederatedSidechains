@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <LangVersion>Latest</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <LangVersion>Latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Stratis.Bitcoin" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Api" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.BlockStore" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.Consensus" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.MemoryPool" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.Miner" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.PoA" Version="3.0.0.4-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.SmartContracts" Version="0.0.6-beta" />
+    <PackageReference Include="Stratis.Bitcoin.Features.Wallet" Version="3.0.0.4-beta" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Stratis.Sidechains.LocalSmartContracts.Networks\Stratis.Sidechains.LocalSmartContracts.Networks.csproj" />
+  </ItemGroup>
+</Project>
