@@ -56,10 +56,7 @@ namespace Stratis.Sidechains.LocalSmartContracts.Networks
             // and should be the same for all nodes operating on this network.
             var federationPubKeys = new List<PubKey>
             {
-                new PubKey("0248179252fb1b9da1b339cfef1badf51c2a42f42d91cb29dbcd8da605cd3cb1b5"),
-                new PubKey("028c1b0e5bf6fac393deb52245fcd552832add53b41e5a5ddf6a34083e932fac9a"),
-                new PubKey("039806e5f1bd50d0eb0d7119c09910a1d81f6b6dabc4a6fca57fe6362dae49728a"),
-                new PubKey("03631e4b7477b81b9b93d38dee782800ad4666b3b7c3c777b99540d56edcae7e5b"),
+                new PubKey("02f5b2a2fc2aa9f2ab85e9727720f9b280ed937f897e444810abaada26738b13c4"),
             };
 
             var consensusOptions = new PoAConsensusOptions(
@@ -142,8 +139,9 @@ namespace Stratis.Sidechains.LocalSmartContracts.Networks
             string[] seedNodes = {};
             this.SeedNodes = ConvertToNetworkAddresses(seedNodes, this.DefaultPort).ToList();
 
-            Assert(this.Consensus.HashGenesisBlock == uint256.Parse("0x000004b5e1be2efc806c0e779550e05fa11f4902063f87cc273959fadc5ca579"));
-            Assert(this.Genesis.Header.HashMerkleRoot == uint256.Parse("0x55168c43e5b997b99192af9819297efb43bedfdd698f29c6a2c22dfc671cc0fb"));
+            // Removing as genesis block text changed
+            //Assert(this.Consensus.HashGenesisBlock == uint256.Parse("0x000004b5e1be2efc806c0e779550e05fa11f4902063f87cc273959fadc5ca579"));
+            //Assert(this.Genesis.Header.HashMerkleRoot == uint256.Parse("0x55168c43e5b997b99192af9819297efb43bedfdd698f29c6a2c22dfc671cc0fb"));
         }
     }
 }

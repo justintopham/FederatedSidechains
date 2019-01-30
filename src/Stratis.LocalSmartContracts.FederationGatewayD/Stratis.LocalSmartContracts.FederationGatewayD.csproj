@@ -23,5 +23,6 @@
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\Stratis.FederatedPeg.Features.FederationGateway\Stratis.FederatedPeg.Features.FederationGateway.csproj" />
+      <ProjectReference Include="..\Stratis.Sidechains.LocalSmartContracts.Networks\Stratis.Sidechains.LocalSmartContracts.Networks.csproj" />
     </ItemGroup>
 </Project>
