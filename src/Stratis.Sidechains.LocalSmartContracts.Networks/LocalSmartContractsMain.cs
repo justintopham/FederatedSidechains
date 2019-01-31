@@ -140,8 +140,8 @@ namespace Stratis.Sidechains.LocalSmartContracts.Networks
             this.SeedNodes = ConvertToNetworkAddresses(seedNodes, this.DefaultPort).ToList();
 
             // Removing as genesis block text changed
-            //Assert(this.Consensus.HashGenesisBlock == uint256.Parse("0x000004b5e1be2efc806c0e779550e05fa11f4902063f87cc273959fadc5ca579"));
-            //Assert(this.Genesis.Header.HashMerkleRoot == uint256.Parse("0x55168c43e5b997b99192af9819297efb43bedfdd698f29c6a2c22dfc671cc0fb"));
+            Assert(this.Consensus.HashGenesisBlock == uint256.Parse("0x2fa8eaac7cd4e308b447470080352b0c3a4411d10c8c11e839d5e44dffd684c7"));
+            Assert(this.Genesis.Header.HashMerkleRoot == uint256.Parse("0x6abb8137b005211ddd2878aebd97b69c89a7115ca5020e8fb3a98cc9a8bab09c"));
         }
     }
 }

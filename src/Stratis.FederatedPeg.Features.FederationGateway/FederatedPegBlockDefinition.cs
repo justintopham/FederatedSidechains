@@ -45,7 +45,7 @@ namespace Stratis.FederatedPeg.Features.FederationGateway
 
         public override BlockTemplate Build(ChainedHeader chainTip, Script scriptPubKey)
         {
-            BitcoinAddress bitcoinAddress = BitcoinAddress.Create("Cekpja8ej971ANoyUg9qqVHakBNVzpDtJq", this.Network);
+            BitcoinAddress bitcoinAddress = BitcoinAddress.Create("CP9G8ZHYTcU9hK9vXKKaYExt9G74sEWC1X", this.Network);
             Script rewardScript = (chainTip.Height + 1) == this.Network.Consensus.PremineHeight
                 ? bitcoinAddress.ScriptPubKey
                 : this.payToMemberScript;
