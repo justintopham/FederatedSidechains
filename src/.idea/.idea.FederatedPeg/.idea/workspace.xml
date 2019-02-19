@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b48d234-07fd-4a15-848d-f86922972c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LSC_Node_Scripts/start_miner1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../LSC_Node_Scripts/start_miner1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSC_Node_Scripts/start_node1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../LSC_Node_Scripts/start_node1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSC_Node_Scripts/start_node2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../LSC_Node_Scripts/start_node2.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="799185892">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Tests/Utils/AddressHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+              <folding>
+                <marker date="1548685034698" expanded="false" signature="6:104" ph="..." />
+                <marker date="1548685034698" expanded="true" signature="148:3091" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="181:1499" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="348:513" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="583:776" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="846:1039" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="1095:1266" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="1322:1493" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="1555:3089" ph="{...}" />
+                <marker date="1548685034698" expanded="true" signature="2160:3083" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/NetworkHelpers/NetworkExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <marker date="1548774497811" expanded="false" signature="6:135" ph="..." />
+                <marker date="1548774497811" expanded="true" signature="209:1824" ph="{...}" />
+                <marker date="1548774497811" expanded="true" signature="233:282" ph="{...}" />
+                <marker date="1548774497811" expanded="true" signature="288:404" ph="/// Network helper extensions for identifying a sidechain or mainchain network. ... " />
+                <marker date="1548774497811" expanded="true" signature="446:1822" ph="{...}" />
+                <marker date="1548774497811" expanded="true" signature="532:686" ph="{...}" />
+                <marker date="1548774497811" expanded="true" signature="785:909" ph="{...}" />
+                <marker date="1548774497811" expanded="true" signature="984:1816" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/FederationGatewaySettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="32" />
+              <folding>
+                <marker date="1548685034633" expanded="false" signature="6:214" ph="..." />
+                <marker date="1548685034633" expanded="true" signature="273:4610" ph="{...}" />
+                <marker date="1548685034633" expanded="true" signature="377:4608" ph="{...}" />
+                <marker date="1548685034633" expanded="true" signature="963:3690" ph="{...}" />
+                <marker date="1548685034633" expanded="true" signature="2508:2645" ph="{...}" />
+                <marker date="1548685034633" expanded="true" signature="2856:3038" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/TargetChain/CrossChainTransferStore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2476">
+              <caret line="320" column="24" selection-start-line="320" selection-start-column="24" selection-end-line="320" selection-end-column="24" />
+              <folding>
+                <marker date="1548685034642" expanded="false" signature="6:576" ph="..." />
+                <marker date="1548685034642" expanded="true" signature="647:59776" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="717:59774" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="3820:5890" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="6008:7597" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="6172:7573" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="6576:7555" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="6958:7533" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="7108:7326" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="7696:9601" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="7769:8259" ph="/* Remove all transient transactions from the wallet to be re-added according to the ... */" />
+                <marker date="1548685034642" expanded="true" signature="8841:9577" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="9128:9559" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="9664:9776" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="9786:10070" ph="/// The store will chase the wallet tip. This will ensure that we can rely on ... " />
+                <marker date="1548685034642" expanded="true" signature="10114:10527" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="10260:10414" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="10537:11073" ph="/// Partial or fully signed transfers should have their source UTXO's recorded by an up-to-date wallet. ... " />
+                <marker date="1548685034642" expanded="true" signature="11189:16535" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="11244:11501" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="11698:14041" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="12231:13308" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="12565:13290" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="13574:13782" ph="/* The chain may have been rewound so that this transaction or its UTXO's have been lost. ... */" />
+                <marker date="1548685034642" expanded="true" signature="14078:14218" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="14323:16525" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="14514:16036" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="14637:14751" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="15123:15410" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="15221:15388" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="15639:15905" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="15726:15883" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="16074:16511" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="16650:18641" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="16676:18377" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="17308:17714" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="17935:18199" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="18034:18181" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="18413:18558" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="18651:19014" ph="///Rolls back the database if an operation running in the context of a database transaction fails. ... " />
+                <marker date="1548685034642" expanded="true" signature="19180:19384" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="19454:20018" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="19498:20006" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="19678:19974" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="20159:28615" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="20444:28603" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="21020:21177" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="21318:21475" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="21612:28413" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="21904:22054" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="22135:22352" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="22636:22881" ph="/* Deposits are assumed to be in order of occurrence on the source chain. ... */" />
+                <marker date="1548685034642" expanded="true" signature="23008:25549" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="23234:23336" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="23736:24864" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="23861:24021" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="24283:24662" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="24699:24834" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="24942:25242" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="25275:25523" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="25666:28391" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="25913:27062" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="25994:26141" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="26328:26478" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="26512:26663" ph="/* Ensure we get called for a retry by NOT advancing the chain A tip if the block ... */" />
+                <marker date="1548685034642" expanded="true" signature="26724:26909" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="27112:28365" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="27360:28010" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="27515:27896" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="27643:27858" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="28762:32612" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="28941:32600" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="29322:29586" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="29664:29839" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="30161:30456" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="30569:32568" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="30619:31847" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="31019:31323" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="31893:32485" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="32622:33015" ph="/// Uses the information contained in our chain's blocks to update the store. ... " />
+                <marker date="1548685034642" expanded="true" signature="33060:38040" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="33533:33871" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="33944:34211" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="34805:38030" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="34994:37678" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="35186:37158" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="35708:37136" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="36172:36722" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="36755:37110" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="37716:38016" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="38050:38450" ph="/// Used to handle reorg (if required) and revert status from &lt;see cref=&quot;CrossChainTransferStatus.SeenInBlock&quot;/&gt;  ... " />
+                <marker date="1548685034642" expanded="true" signature="38490:41321" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="38628:38805" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="38957:39357" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="39625:41222" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="40135:41126" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="40410:40743" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="40785:41108" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="41331:41506" ph="///Attempts to synchronizes the store with the chain. ... " />
+                <marker date="1548685034642" expanded="true" signature="41541:43044" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="41732:41927" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="41995:42989" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="42058:42366" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="42462:42971" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="42600:42911" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="43054:43232" ph="///Synchronize with a batch of blocks. ... " />
+                <marker date="1548685034642" expanded="true" signature="43272:44652" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="43575:43921" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="44223:44547" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="44662:44865" ph="///Loads the tip and hash height. ... " />
+                <marker date="1548685034642" expanded="true" signature="44969:45602" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="45046:45287" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="45317:45431" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="45612:45823" ph="///Saves the tip and hash height. ... " />
+                <marker date="1548685034642" expanded="true" signature="45940:46177" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="46187:46409" ph="///Loads the counter-chain next mature block height. ... " />
+                <marker date="1548685034642" expanded="true" signature="46503:46769" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="46779:47036" ph="///Saves the counter-chain next mature block height. ... " />
+                <marker date="1548685034642" expanded="true" signature="47143:47331" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="47433:47682" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="47477:47670" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="47746:48029" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="47860:48019" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="48138:49346" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="48846:49311" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="49024:49297" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="49412:49679" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="49817:50905" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="50339:50554" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="50582:50663" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="51068:51385" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="51112:51373" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="51395:51676" ph="///Persist the cross-chain transfer information into the database. ... " />
+                <marker date="1548685034642" expanded="true" signature="51802:52148" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="52158:52434" ph="///Persist multiple cross-chain transfer information into the database. ... " />
+                <marker date="1548685034642" expanded="true" signature="52564:53377" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="53122:53367" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="53387:53666" ph="///Deletes the cross-chain transfer information from the database ... " />
+                <marker date="1548685034642" expanded="true" signature="53795:54011" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="54021:54452" ph="/// Forgets transfer information for the blocks being removed and returns information for updating the transient  ... " />
+                <marker date="1548685034642" expanded="true" signature="54577:56243" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="54988:55064" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="55379:56204" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="55565:55849" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="55870:56190" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="56253:56491" ph="///Updates the status lookup based on a transfer and its previous status. ... " />
+                <marker date="1548685034642" expanded="true" signature="56601:56892" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="56646:56791" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="56902:57088" ph="///Update the transient lookups after changes have been committed to the store. ... " />
+                <marker date="1548685034642" expanded="true" signature="57152:57948" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="57228:57331" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="57429:57938" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="57582:57924" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="57958:58149" ph="///Undoes the transient lookups after block removals have been committed to the store. ... " />
+                <marker date="1548685034642" expanded="true" signature="58211:58801" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="58318:58580" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="58370:58503" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="58647:58791" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="58896:59014" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="59136:59549" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="59397:59511" ph="{...}" />
+                <marker date="1548685034642" expanded="true" signature="59607:59768" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.StandardSidechainD/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <folding>
+                <marker date="1550252907260" expanded="false" signature="6:576" ph="..." />
+                <marker date="1550252907260" expanded="true" signature="634:2298" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="641:804" ph="/// Starts a console app that includes the sidechain network parameters and that should be distributed to the sid ... " />
+                <marker date="1550252907260" expanded="true" signature="822:2296" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="875:931" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="990:1707" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="1016:1528" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="1089:1202" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="1561:1697" ph="{...}" />
+                <marker date="1550252907260" expanded="true" signature="1792:2290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.FederationGatewayD/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="52" selection-start-line="52" selection-end-line="54" />
+              <folding>
+                <marker date="1550252907259" expanded="false" signature="6:848" ph="..." />
+                <marker date="1550252907259" expanded="true" signature="907:5296" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="927:4762" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="1108:1180" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="1256:2143" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="1282:1964" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="1567:1763" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="1997:2133" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="2213:3020" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="2388:2477" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="2637:2758" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="3090:3965" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="3268:3357" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="3517:3638" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="4047:4756" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="4813:5294" ph="{...}" />
+                <marker date="1550252907259" expanded="true" signature="4944:5288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsNetwork.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="71" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="71" />
+              <folding>
+                <marker date="1550252907262" expanded="true" signature="6:95" ph="..." />
+                <marker date="1550252907262" expanded="true" signature="154:1870" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="207:1868" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="269:427" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="295:417" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="610:1862" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="862:1128" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="945:1058" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="1197:1243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1550252907262" expanded="false" signature="6:223" ph="..." />
+                <marker date="1550252907262" expanded="true" signature="282:7345" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="289:394" ph="/// Right now, ripped nearly straight from &lt;see cref=&quot;PoANetwork&quot;/&gt;. ... " />
+                <marker date="1550252907262" expanded="true" signature="448:7343" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="870:7337" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="2373:2597" ph="/* Configure federation public keys used to sign blocks. ... */" />
+                <marker date="1550252907262" expanded="true" signature="2663:2776" ph="{...}" />
+                <marker date="1550252907262" expanded="true" signature="3255:3410" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mincoinmaturity</find>
+      <find>MinCoinMaturity</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/XUnitRetry/RetryAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/TargetChain/CrossChainTransferStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/FederationGatewaySettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/Wallet/FederationWallet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.FederationGatewayD/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/Controllers/FederationGatewayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.StandardSidechainD/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/NetworkHelpers/NetworkExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/Models/FederationGatewayInfoModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7676201D-B85A-414F-9C83-4DB84B5E742B/2f/40fc41db/Network.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/TargetChain/SignedMultisigTransactionBroadcaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/TargetChain/MaturedBlocksSyncManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Tests/Utils/AddressHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsNetwork.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-2560" />
+    <option name="y" value="-563" />
+    <option name="width" value="2560" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sidechain Generation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sidechain Generation" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FederationSetup" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sidechain Generation" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedSidechains.Initialisation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Projects" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Analyzers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Payloads" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestClients" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SourceChain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.FederatedPeg.Features.FederationGateway" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TargetChain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.LocalSmartContracts.FederationGatewayD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.LocalSmartContracts.StandardSidechainD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FederatedPeg" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stratis.Sidechains.LocalSmartContracts.Networks" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9cbb95-a1cc-41f6-ae2e-979f392c64f0" name="Default Changelist" comment="" />
+      <created>1550241784282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550241784282</updated>
+      <workItem from="1550241785799" duration="4274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3520000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2560" y="-563" width="2560" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18625894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/NetworkHelpers/NetworkExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1548774497811" expanded="false" signature="6:135" ph="..." />
+            <marker date="1548774497811" expanded="true" signature="209:1824" ph="{...}" />
+            <marker date="1548774497811" expanded="true" signature="233:282" ph="{...}" />
+            <marker date="1548774497811" expanded="true" signature="288:404" ph="/// Network helper extensions for identifying a sidechain or mainchain network. ... " />
+            <marker date="1548774497811" expanded="true" signature="446:1822" ph="{...}" />
+            <marker date="1548774497811" expanded="true" signature="532:686" ph="{...}" />
+            <marker date="1548774497811" expanded="true" signature="785:909" ph="{...}" />
+            <marker date="1548774497811" expanded="true" signature="984:1816" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/FederationGatewaySettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="32" />
+          <folding>
+            <marker date="1548685034633" expanded="false" signature="6:214" ph="..." />
+            <marker date="1548685034633" expanded="true" signature="273:4610" ph="{...}" />
+            <marker date="1548685034633" expanded="true" signature="377:4608" ph="{...}" />
+            <marker date="1548685034633" expanded="true" signature="963:3690" ph="{...}" />
+            <marker date="1548685034633" expanded="true" signature="2508:2645" ph="{...}" />
+            <marker date="1548685034633" expanded="true" signature="2856:3038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.FederatedPeg.Features.FederationGateway/TargetChain/CrossChainTransferStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2476">
+          <caret line="320" column="24" selection-start-line="320" selection-start-column="24" selection-end-line="320" selection-end-column="24" />
+          <folding>
+            <marker date="1548685034642" expanded="false" signature="6:576" ph="..." />
+            <marker date="1548685034642" expanded="true" signature="647:59776" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="717:59774" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="3820:5890" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="6008:7597" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="6172:7573" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="6576:7555" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="6958:7533" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="7108:7326" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="7696:9601" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="7769:8259" ph="/* Remove all transient transactions from the wallet to be re-added according to the ... */" />
+            <marker date="1548685034642" expanded="true" signature="8841:9577" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="9128:9559" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="9664:9776" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="9786:10070" ph="/// The store will chase the wallet tip. This will ensure that we can rely on ... " />
+            <marker date="1548685034642" expanded="true" signature="10114:10527" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="10260:10414" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="10537:11073" ph="/// Partial or fully signed transfers should have their source UTXO's recorded by an up-to-date wallet. ... " />
+            <marker date="1548685034642" expanded="true" signature="11189:16535" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="11244:11501" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="11698:14041" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="12231:13308" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="12565:13290" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="13574:13782" ph="/* The chain may have been rewound so that this transaction or its UTXO's have been lost. ... */" />
+            <marker date="1548685034642" expanded="true" signature="14078:14218" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="14323:16525" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="14514:16036" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="14637:14751" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="15123:15410" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="15221:15388" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="15639:15905" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="15726:15883" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="16074:16511" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="16650:18641" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="16676:18377" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="17308:17714" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="17935:18199" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="18034:18181" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="18413:18558" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="18651:19014" ph="///Rolls back the database if an operation running in the context of a database transaction fails. ... " />
+            <marker date="1548685034642" expanded="true" signature="19180:19384" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="19454:20018" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="19498:20006" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="19678:19974" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="20159:28615" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="20444:28603" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="21020:21177" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="21318:21475" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="21612:28413" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="21904:22054" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="22135:22352" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="22636:22881" ph="/* Deposits are assumed to be in order of occurrence on the source chain. ... */" />
+            <marker date="1548685034642" expanded="true" signature="23008:25549" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="23234:23336" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="23736:24864" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="23861:24021" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="24283:24662" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="24699:24834" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="24942:25242" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="25275:25523" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="25666:28391" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="25913:27062" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="25994:26141" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="26328:26478" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="26512:26663" ph="/* Ensure we get called for a retry by NOT advancing the chain A tip if the block ... */" />
+            <marker date="1548685034642" expanded="true" signature="26724:26909" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="27112:28365" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="27360:28010" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="27515:27896" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="27643:27858" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="28762:32612" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="28941:32600" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="29322:29586" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="29664:29839" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="30161:30456" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="30569:32568" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="30619:31847" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="31019:31323" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="31893:32485" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="32622:33015" ph="/// Uses the information contained in our chain's blocks to update the store. ... " />
+            <marker date="1548685034642" expanded="true" signature="33060:38040" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="33533:33871" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="33944:34211" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="34805:38030" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="34994:37678" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="35186:37158" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="35708:37136" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="36172:36722" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="36755:37110" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="37716:38016" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="38050:38450" ph="/// Used to handle reorg (if required) and revert status from &lt;see cref=&quot;CrossChainTransferStatus.SeenInBlock&quot;/&gt;  ... " />
+            <marker date="1548685034642" expanded="true" signature="38490:41321" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="38628:38805" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="38957:39357" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="39625:41222" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="40135:41126" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="40410:40743" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="40785:41108" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="41331:41506" ph="///Attempts to synchronizes the store with the chain. ... " />
+            <marker date="1548685034642" expanded="true" signature="41541:43044" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="41732:41927" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="41995:42989" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="42058:42366" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="42462:42971" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="42600:42911" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="43054:43232" ph="///Synchronize with a batch of blocks. ... " />
+            <marker date="1548685034642" expanded="true" signature="43272:44652" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="43575:43921" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="44223:44547" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="44662:44865" ph="///Loads the tip and hash height. ... " />
+            <marker date="1548685034642" expanded="true" signature="44969:45602" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="45046:45287" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="45317:45431" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="45612:45823" ph="///Saves the tip and hash height. ... " />
+            <marker date="1548685034642" expanded="true" signature="45940:46177" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="46187:46409" ph="///Loads the counter-chain next mature block height. ... " />
+            <marker date="1548685034642" expanded="true" signature="46503:46769" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="46779:47036" ph="///Saves the counter-chain next mature block height. ... " />
+            <marker date="1548685034642" expanded="true" signature="47143:47331" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="47433:47682" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="47477:47670" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="47746:48029" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="47860:48019" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="48138:49346" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="48846:49311" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="49024:49297" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="49412:49679" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="49817:50905" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="50339:50554" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="50582:50663" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="51068:51385" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="51112:51373" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="51395:51676" ph="///Persist the cross-chain transfer information into the database. ... " />
+            <marker date="1548685034642" expanded="true" signature="51802:52148" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="52158:52434" ph="///Persist multiple cross-chain transfer information into the database. ... " />
+            <marker date="1548685034642" expanded="true" signature="52564:53377" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="53122:53367" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="53387:53666" ph="///Deletes the cross-chain transfer information from the database ... " />
+            <marker date="1548685034642" expanded="true" signature="53795:54011" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="54021:54452" ph="/// Forgets transfer information for the blocks being removed and returns information for updating the transient  ... " />
+            <marker date="1548685034642" expanded="true" signature="54577:56243" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="54988:55064" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="55379:56204" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="55565:55849" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="55870:56190" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="56253:56491" ph="///Updates the status lookup based on a transfer and its previous status. ... " />
+            <marker date="1548685034642" expanded="true" signature="56601:56892" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="56646:56791" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="56902:57088" ph="///Update the transient lookups after changes have been committed to the store. ... " />
+            <marker date="1548685034642" expanded="true" signature="57152:57948" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="57228:57331" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="57429:57938" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="57582:57924" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="57958:58149" ph="///Undoes the transient lookups after block removals have been committed to the store. ... " />
+            <marker date="1548685034642" expanded="true" signature="58211:58801" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="58318:58580" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="58370:58503" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="58647:58791" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="58896:59014" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="59136:59549" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="59397:59511" ph="{...}" />
+            <marker date="1548685034642" expanded="true" signature="59607:59768" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.StandardSidechainD/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <marker date="1550252907260" expanded="false" signature="6:576" ph="..." />
+            <marker date="1550252907260" expanded="true" signature="634:2298" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="641:804" ph="/// Starts a console app that includes the sidechain network parameters and that should be distributed to the sid ... " />
+            <marker date="1550252907260" expanded="true" signature="822:2296" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="875:931" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="990:1707" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="1016:1528" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="1089:1202" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="1561:1697" ph="{...}" />
+            <marker date="1550252907260" expanded="true" signature="1792:2290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.LocalSmartContracts.FederationGatewayD/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="52" selection-start-line="52" selection-end-line="54" />
+          <folding>
+            <marker date="1550252907259" expanded="false" signature="6:848" ph="..." />
+            <marker date="1550252907259" expanded="true" signature="907:5296" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="927:4762" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="1108:1180" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="1256:2143" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="1282:1964" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="1567:1763" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="1997:2133" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="2213:3020" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="2388:2477" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="2637:2758" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="3090:3965" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="3268:3357" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="3517:3638" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="4047:4756" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="4813:5294" ph="{...}" />
+            <marker date="1550252907259" expanded="true" signature="4944:5288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7676201D-B85A-414F-9C83-4DB84B5E742B/2f/40fc41db/Network.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsNetwork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="71" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="71" />
+          <folding>
+            <marker date="1550252907262" expanded="true" signature="6:95" ph="..." />
+            <marker date="1550252907262" expanded="true" signature="154:1870" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="207:1868" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="269:427" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="295:417" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="610:1862" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="862:1128" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="945:1058" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="1197:1243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stratis.Sidechains.LocalSmartContracts.Networks/LocalSmartContractsMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1550252907262" expanded="false" signature="6:223" ph="..." />
+            <marker date="1550252907262" expanded="true" signature="282:7345" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="289:394" ph="/// Right now, ripped nearly straight from &lt;see cref=&quot;PoANetwork&quot;/&gt;. ... " />
+            <marker date="1550252907262" expanded="true" signature="448:7343" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="870:7337" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="2373:2597" ph="/* Configure federation public keys used to sign blocks. ... */" />
+            <marker date="1550252907262" expanded="true" signature="2663:2776" ph="{...}" />
+            <marker date="1550252907262" expanded="true" signature="3255:3410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

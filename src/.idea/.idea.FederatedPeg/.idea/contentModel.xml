@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/stratis.bitcoin.api/3.0.0.4-beta/contentFiles/any/netcoreapp2.1/appsettings.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/stratis.bitcoin.api/3.0.0.4-beta/contentFiles/any/netcoreapp2.1/Properties/launchSettings.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/stratis.bitcoin.api/3.0.0.4-beta/contentFiles/any/netcoreapp2.1/web.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FederatedPeg.sln" t="IncludeFlat" />
+      <e p="FedKeyPairGen" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FederationSetup.cs" t="Include" />
+        <e p="FederationSetup.csproj" t="IncludeRecursive" />
+        <e p="GenesisMiner.cs" t="Include" />
+        <e p="MultisigAddressCreator.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="FederationSetup.AssemblyInfo.cs" t="Include" />
+              <e p="FederationSetup.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sidechain Generation" t="Include" />
+      <e p="Stratis.FederatedPeg.Features.FederationGateway" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="FederationGatewayController.cs" t="Include" />
+          <e p="FederationWalletController.cs" t="Include" />
+        </e>
+        <e p="FederatedPegBlockDefinition.cs" t="Include" />
+        <e p="FederationGatewayFeature.cs" t="Include" />
+        <e p="FederationGatewaySettings.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="ICrossChainTransfer.cs" t="Include" />
+          <e p="ICrossChainTransferStore.cs" t="Include" />
+          <e p="IDeposit.cs" t="Include" />
+          <e p="IDepositExtractor.cs" t="Include" />
+          <e p="IFederationGatewaySettings.cs" t="Include" />
+          <e p="IFederationWalletManager.cs" t="Include" />
+          <e p="IFederationWalletSyncManager.cs" t="Include" />
+          <e p="IWithdrawal.cs" t="Include" />
+        </e>
+        <e p="LeaderProvider.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="BlockTipModel.cs" t="Include" />
+          <e p="ConcreteTypeConverter.cs" t="Include" />
+          <e p="FederationGatewayInfoModel.cs" t="Include" />
+          <e p="MaturedBlockDepositsModel.cs" t="Include" />
+          <e p="MaturedBlockModel.cs" t="Include" />
+          <e p="MaturedBlockRequestModel.cs" t="Include" />
+          <e p="RequestModels.cs" t="Include" />
+          <e p="WithdrawalModel.cs" t="Include" />
+        </e>
+        <e p="NetworkHelpers" t="Include">
+          <e p="IPEndPointComparer.cs" t="Include" />
+          <e p="NetworkExtensions.cs" t="Include" />
+        </e>
+        <e p="Notifications" t="Include">
+          <e p="BlockObserver.cs" t="Include" />
+          <e p="TransactionObserver.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedPeg.Features.FederationGateway.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OpReturnDataReader.cs" t="Include" />
+        <e p="PartialTransactionsBehavior.cs" t="Include" />
+        <e p="Payloads" t="Include">
+          <e p="RequestPartialTransactionPayload.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include" />
+        <e p="RestClients" t="Include">
+          <e p="FederationGatewayClient.cs" t="Include" />
+          <e p="RestApiClientBase.cs" t="Include" />
+        </e>
+        <e p="SourceChain" t="Include">
+          <e p="Deposit.cs" t="Include" />
+          <e p="DepositExtractor.cs" t="Include" />
+          <e p="MaturedBlocksProvider.cs" t="Include" />
+        </e>
+        <e p="Stratis.FederatedPeg.Features.FederationGateway.csproj" t="IncludeRecursive" />
+        <e p="TargetChain" t="Include">
+          <e p="CrossChainTransfer.cs" t="Include" />
+          <e p="CrossChainTransferStore.cs" t="Include" />
+          <e p="LeaderReceiver.cs" t="Include" />
+          <e p="MaturedBlocksSyncManager.cs" t="Include" />
+          <e p="PartialTransactionRequester.cs" t="Include" />
+          <e p="SignedMultisigTransactionBroadcaster.cs" t="Include" />
+          <e p="StatusChangeTracker.cs" t="Include" />
+          <e p="Withdrawal.cs" t="Include" />
+          <e p="WithdrawalExtractor.cs" t="Include" />
+          <e p="WithdrawalHistoryProvider.cs" t="Include" />
+          <e p="WithdrawalReceiver.cs" t="Include" />
+        </e>
+        <e p="Wallet" t="Include">
+          <e p="FederationWallet.cs" t="Include" />
+          <e p="FederationWalletManager.cs" t="Include" />
+          <e p="FederationWalletSyncManager.cs" t="Include" />
+          <e p="FederationWalletTransactionHandler.cs" t="Include" />
+          <e p="MultiSigAddress.cs" t="Include" />
+          <e p="PaymentDetails.cs" t="Include" />
+          <e p="SpendingDetails.cs" t="Include" />
+          <e p="TransactionData.cs" t="Include" />
+          <e p="UnspentOutputReference.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Stratis.FederatedPeg.IntegrationTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ContractExecutionTests.cs" t="Include" />
+        <e p="LeaderTests.cs" t="Include" />
+        <e p="MiningTests.cs" t="Include" />
+        <e p="NodeSetupTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedPeg.IntegrationTests.AssemblyInfo.cs" t="Include" />
+              <e p="Stratis.FederatedPeg.IntegrationTests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SmartContracts" t="Include">
+          <e p="BasicTransfer.cs" t="Include" />
+        </e>
+        <e p="Stratis.FederatedPeg.IntegrationTests.csproj" t="IncludeRecursive" />
+        <e p="Utils" t="Include">
+          <e p="FederatedPegTestExtensions.cs" t="Include" />
+          <e p="FederatedPegTestHelper.cs" t="Include" />
+          <e p="MainChainFederationNodeRunner.cs" t="Include" />
+          <e p="SidechainFederationNodeRunner.cs" t="Include" />
+          <e p="SidechainNodeBuilder.cs" t="Include" />
+          <e p="SidechainTestContext.cs" t="Include" />
+          <e p="SidechainUserNodeRunner.cs" t="Include" />
+          <e p="SidechainWithSmartContractsNodeRunner.cs" t="Include" />
+          <e p="TestFederatedPegBlockDefinition.cs" t="Include" />
+        </e>
+        <e p="xunit.runner.json" t="Include" />
+      </e>
+      <e p="Stratis.FederatedPeg.IntegrationTests.Tools" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FederatedNetworkScripts" t="Include">
+          <e p="FederatedNetworkScriptBase.cs" t="Include" />
+          <e p="FederatedNetworkScriptGenerator.cs" t="Include" />
+          <e p="NetworkType.cs" t="Include" />
+          <e p="NodeSetup.cs" t="Include" />
+          <e p="NodeType.cs" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="HelperMethods.ps1" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedPeg.IntegrationTests.Tools.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Stratis.FederatedPeg.IntegrationTests.Tools.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.FederatedPeg.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlockObserverTests.cs" t="Include" />
+        <e p="BlockTipModelTests.cs" t="Include" />
+        <e p="Chain_With_NetworkExtension_Shall.cs" t="Include" />
+        <e p="ControllersTests" t="Include">
+          <e p="FederationGatewayControllerTests.cs" t="Include" />
+          <e p="FederationWalletControllerTests.cs" t="Include" />
+        </e>
+        <e p="CrossChainTestBase.cs" t="Include" />
+        <e p="CrossChainTransferStoreTests.cs" t="Include" />
+        <e p="DepositExtractorTests.cs" t="Include" />
+        <e p="LeaderProviderTests.cs" t="Include" />
+        <e p="LeaderReceiverTests.cs" t="Include" />
+        <e p="MaturedBlockDepositModelTests.cs" t="Include" />
+        <e p="MaturedBlockRequestModelTests.cs" t="Include" />
+        <e p="MaturedBlocksProviderTests.cs" t="Include" />
+        <e p="MaturedBlocksSyncManagerTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedPeg.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="Stratis.FederatedPeg.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OpReturnDataReaderTests.cs" t="Include" />
+        <e p="Properties" t="Include" />
+        <e p="RestClientsTests" t="Include">
+          <e p="FederationGatewayClientTests.cs" t="Include" />
+          <e p="RestApiClientBaseTests.cs" t="Include" />
+        </e>
+        <e p="SignedMultisigTransactionBroadcasterTests.cs" t="Include" />
+        <e p="Stratis.FederatedPeg.Tests.csproj" t="IncludeRecursive" />
+        <e p="SubstituteExtensions.cs" t="Include" />
+        <e p="Utils" t="Include">
+          <e p="AddressHelper.cs" t="Include" />
+          <e p="TestingHttpClient.cs" t="Include" />
+          <e p="TestingValues.cs" t="Include" />
+          <e p="TestTransactionBuilder.cs" t="Include" />
+        </e>
+        <e p="WithdrawalExtractorTests.cs" t="Include" />
+        <e p="WithdrawalReceiverTests.cs" t="Include" />
+        <e p="WithdrawalTests.cs" t="Include" />
+      </e>
+      <e p="Stratis.FederatedSidechains.AdminDashboard" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="bundleconfig.json" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="SidechainNodeController.cs" t="Include" />
+          <e p="StratisNodeController.cs" t="Include" />
+        </e>
+        <e p="Filters" t="Include">
+          <e p="AjaxAttribute.cs" t="Include" />
+        </e>
+        <e p="Hubs" t="Include">
+          <e p="DataUpdaterHub.cs" t="Include" />
+        </e>
+        <e p="libman.json" t="Include" />
+        <e p="Models" t="Include">
+          <e p="DashboardModel.cs" t="Include" />
+          <e p="Peer.cs" t="Include" />
+          <e p="SidechainNodelModel.cs" t="Include" />
+          <e p="StratisNodeModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedSidechains.AdminDashboard.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Rest" t="Include">
+          <e p="ApiRequester.cs" t="Include" />
+          <e p="ApiResponse.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="FetchingBackgroundService.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="DefaultEndpointsSettings.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Stratis.FederatedSidechains.AdminDashboard.csproj" t="IncludeRecursive" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Dashboard.cshtml" t="Include" />
+            <e p="Initialization.cshtml" t="Include" />
+            <e p="Loader.cshtml" t="Include" />
+            <e p="Modals.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="default.css" t="Include" />
+          </e>
+          <e p="fonts" t="Include">
+            <e p="MaterialIcons-Regular.eot" t="Include" />
+            <e p="MaterialIcons-Regular.ijmap" t="Include" />
+            <e p="MaterialIcons-Regular.svg" t="Include" />
+            <e p="MaterialIcons-Regular.ttf" t="Include" />
+            <e p="MaterialIcons-Regular.woff" t="Include" />
+            <e p="MaterialIcons-Regular.woff2" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="logo.svg" t="Include" />
+            <e p="logo_white.svg" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="default.js" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Stratis.FederatedSidechains.Initialisation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedSidechains.Initialisation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="sidechainInitialisationConfig.json" t="Include" />
+        <e p="SidechainInitialisationConfigModel.cs" t="Include" />
+        <e p="Stratis.FederatedSidechains.Initialisation.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.FederatedSidechains.Initialisation.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederatedSidechains.Initialisation.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="Stratis.FederatedSidechains.Initialisation.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProgramTests.cs" t="Include" />
+        <e p="Stratis.FederatedSidechains.Initialisation.Tests.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.FederationGatewayD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.FederationGatewayD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="start-gateway-testnet.ps1" t="Include" />
+        <e p="Stratis.FederationGatewayD.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.LocalSmartContracts.FederationGatewayD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.LocalSmartContracts.FederationGatewayD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include" />
+        <e p="Stratis.LocalSmartContracts.FederationGatewayD.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.LocalSmartContracts.StandardSidechainD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.LocalSmartContracts.StandardSidechainD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include" />
+        <e p="Stratis.LocalSmartContracts.StandardSidechainD.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.SidechainD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.SidechainD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Stratis.SidechainD.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.SidechainDnsD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.SidechainDnsD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Stratis.SidechainDnsD.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.Sidechains.LocalSmartContracts.Networks" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LocalSmartContractsMain.cs" t="Include" />
+        <e p="LocalSmartContractsNetwork.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.Sidechains.LocalSmartContracts.Networks.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Stratis.Sidechains.LocalSmartContracts.Networks.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stratis.Sidechains.Networks" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FederatedPegMain.cs" t="Include" />
+        <e p="FederatedPegNetwork.cs" t="Include" />
+        <e p="FederatedPegRegTest.cs" t="Include" />
+        <e p="FederatedPegTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Stratis.Sidechains.Networks.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Stratis.Sidechains.Networks.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tests" t="Include" />
+      <e p="XUnitRetry" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DelayedMessageBus.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="XUnitRetry.AssemblyInfo.cs" t="Include" />
+              <e p="XUnitRetry.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RetryAttribute.cs" t="Include" />
+        <e p="RetryFactDiscoverer.cs" t="Include" />
+        <e p="RetryTestCase.cs" t="Include" />
+        <e p="XUnitRetry.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_FederatedPeg.1066285298.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>
